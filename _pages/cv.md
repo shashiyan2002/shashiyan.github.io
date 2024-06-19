@@ -16,7 +16,7 @@ Education
 * B.S. in GitHub, GitHub University, 2012
 
 [download](https://github.com/Hanchao-Zhang/Hanchao-Zhang.github.io)
-![Image Alt Text](images/profile.png)
+![Image](/images/profile.png)
 
 Work experience
 ======
