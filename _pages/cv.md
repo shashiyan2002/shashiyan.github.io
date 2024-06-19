@@ -25,7 +25,6 @@ Research Papers
 ======
 
 
-<li>
 <div class="pub-row">
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -43,6 +42,4 @@ Research Papers
       <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
     </div>
 </div>
-</li>
-  
-<br>
+
