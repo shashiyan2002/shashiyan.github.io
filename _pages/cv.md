@@ -43,7 +43,7 @@ Research Papers
 </div>
 
 
-<div class="pub-row" style="display: flex; align-items: center;">
+<div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative; padding-left: 0px;">
     <img src="/images/profile.png" class="teaser img-fluid z-depth-1" style="width: 200px; height: auto; margin-right: 20px;">
   </div>
