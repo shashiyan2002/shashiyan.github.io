@@ -2,8 +2,6 @@
 title: "Paper Title Number 20"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-avatar: "profile.png"
-![Image](images/profile.png)
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 img: "profile.png"
 date: 2009-10-01
