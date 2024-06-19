@@ -43,13 +43,14 @@ Research Papers
 </div>
 
 
-<div class="pub-row">
+
+<div class="pub-row" style="display: flex; align-items: center;">
   <div class="col-sm-3 abbr" style="position: relative; padding-left: 0px;">
     <img src="/images/profile.png" class="teaser img-fluid z-depth-1" style="width: 200px; height: auto; margin-right: 20px;">
   </div>
 
-  <div class="col-sm-9" style="position: relative; padding-left: 0px;">
-    <div style="display: flex; flex-direction: column; justify-content: center; height: 100%;">
+  <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px;">
+    <div>
       <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">K-Tensors: Clustering Positive Semi-Definite Matrices</a></div>
       <div class="author"><strong>Shiyan Sha</strong></div>
       <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, May. 2023.</em></div> 
@@ -62,3 +63,4 @@ Research Papers
     </div>
   </div>
 </div>
+
