@@ -16,7 +16,7 @@ Research Papers
 ---
 <div class="pub-row" style="display: flex; align-items: center; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="position: relative; padding-left: 0px;">
-    <img src="/images/profile.png" class="teaser img-fluid z-depth-1" style="width: 200px; height: auto; margin-right: 20px; box-shadow: 5px 5px 15px rgba(0,0,0,0.1); border: 2px solid #4a4a4a;">
+    <img src="/images/profile.png" class="teaser img-fluid z-depth-1" style="width: 200px; height: auto; margin-right: 20px; box-shadow: 5px 5px 15px rgba(0,0,0,0.6); border: 2px solid #4a4a4a;">
   </div>
 
   <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px;">
