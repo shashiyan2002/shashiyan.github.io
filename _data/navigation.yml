@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Pub"
-    url: /pub/
+  - title: "Publications"
+    url: /Publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Awards"
+    url: /Awards/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -15,8 +15,7 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "Publications"
-    url: /Publications/
+
     
   - title: "Guide"
     url: /markdown/
