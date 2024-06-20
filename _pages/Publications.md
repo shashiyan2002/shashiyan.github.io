@@ -24,7 +24,7 @@ Research Papers
   <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px;">
     <div>
       <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">K-Tensors: Clustering Positive Semi-Definite Matrices</a></div>
-      <div class="author"><strong>Shiyan Sha</strong></div>
+      <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng</div>
       <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, May. 2023.</em></div>
       <div class="links">
         <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
