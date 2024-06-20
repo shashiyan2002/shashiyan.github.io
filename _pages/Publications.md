@@ -22,7 +22,7 @@ Research Papers
   </div>
   <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px;">
     <div>
-      <div class="title"><a href="files/1. 行动导向下的社会基础设施更...示：以澳大利亚贝赛德市为例_陆明.pdf">The Inspirations of Action-Oriented Social Infrastructure Regeneration Practices: A Case Study of Bayside City, Australia</a></div>
+      <div class="title"><a href="files/HELIYON-D-24-13607_reviewer.pdf">The Inspirations of Action-Oriented Social Infrastructure Regeneration Practices: A Case Study of Bayside City, Australia</a></div>
       <div class="author"><strong>Shiyan Sha</strong></div>
       <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Nov. 2023.</em></div>
         <strong><i style="color:#7b5aa6">Urban Planning International</i></strong>
@@ -44,7 +44,7 @@ Research Papers
       <div class="author"><strong>Shiyan Sha</strong></div>
       <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, May. 2023.</em></div>
       <div class="links">
-        <a href="files/1. 行动导向下的社会基础设施更...示：以澳大利亚贝赛德市为例_陆明.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <a href="files/HELIYON-D-24-13607_reviewer.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
         <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
       </div>
     </div>
