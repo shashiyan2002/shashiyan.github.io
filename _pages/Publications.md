@@ -23,7 +23,7 @@ Research Papers
 
   <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px;">
     <div>
-      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0197397523002515">Building a “reservoir of social resilience:” A strategy for social infrastructure regeneration in shrinking cities based on social network analysis</a></div>
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0197397523002515">[1] Building a “reservoir of social resilience:” A strategy for social infrastructure regeneration in shrinking cities based on social network analysis</a></div>
       <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng, Ming Lu(Corresponding Author)</div>
        <div class="periodical"><em><strong>(Habitat International)</strong>, Volume 143, January 2024, 102991.</em></div>
       <div class="links">
@@ -42,7 +42,7 @@ Research Papers
 
   <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px;">
     <div>
-      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1618866724000657">Built or Social environment? Effects of perceptions of neighborhood green spaces on resilience of residents to heat waves</a></div>
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1618866724000657">[2] Built or Social environment? Effects of perceptions of neighborhood green spaces on resilience of residents to heat waves</a></div>
       <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng(Corresponding Author)</div>
        <div class="periodical"><em><strong>(Urban Forestry & Urban Greening)</strong>, Volume 94, April 2024, 128267.</em></div>
       <div class="links">
