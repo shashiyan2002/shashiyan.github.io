@@ -189,7 +189,7 @@ Research Papers
 
 <div class="pub-row" style="display: flex; align-items: center; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="position: relative; padding-left: 0px;">
-    <span class="publication-number">1</span>
+    <span class="publication-number">9</span>
     <img src="/images/profile.png" class="teaser img-fluid z-depth-1" style="width: 200px; height: auto; margin-right: 20px; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
   </div>
 
