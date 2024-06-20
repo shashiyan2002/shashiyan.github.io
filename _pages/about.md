@@ -1,11 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Introduction"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
+During my graduate studies, through continuous exploration, I have contributed to the publication of nearly 20 research papers in high-level international journals and conferences. Among these, I was the first author or corresponding author for 7 SCI/SSCI papers (all published in JCR Q1 journals), 1 CSSCI paper (In Chinese), and 9 international conference papers, some of which I also presented. Additionally, I have participated as a co-author in the writing and revision of several other research papers.
+ </div>
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
