@@ -34,3 +34,24 @@ Research Papers
   </div>
 </div>
 ---
+
+Conference Papers
+======
+<div class="pub-row" style="display: flex; align-items: center; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="position: relative; padding-left: 0px;">
+    <img src="/images/11. habitat.png" class="teaser img-fluid z-depth-1" style="width: 200px; height: auto; margin-right: 20px; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+
+  <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px;">
+    <div>
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0197397523002515">[1] Building a “reservoir of social resilience:” A strategy for social infrastructure regeneration in shrinking cities based on social network analysis</a></div>
+      <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng, Ming Lu(Corresponding Author)</div>
+       <div class="periodical"><em><strong>(Habitat International)</strong>, Volume 143, January 2024, 102991.</em></div>
+      <div class="links">
+        <a href="http://shashiyan2002.github.io/files/paper1.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <strong><i style="color:#7b5aa6">SSCI JCR Q1 (IF=6.8)</i></strong>
+      </div>
+    </div>
+  </div>
+</div>
+---
