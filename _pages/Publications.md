@@ -23,14 +23,10 @@ Research Papers
 
   <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px;">
     <div>
-      <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">K-Tensors: Clustering Positive Semi-Definite Matrices</a></div>
+      <div class="title"><a href="files/1. 行动导向下的社会基础设施更...示：以澳大利亚贝赛德市为例_陆明.pdf">The Inspirations of Action-Oriented Social Infrastructure Regeneration Practices: A Case Study of Bayside City, Australia</a></div>
       <div class="author"><strong>Shiyan Sha</strong></div>
-      <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, May. 2023.</em></div>
-      <div class="links">
-        <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-        <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-        <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-        <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
+      <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Nov. 2023.</em></div>
+        <strong><i style="color:#7b5aa6">Urban Planning International</i></strong>
       </div>
     </div>
   </div>
@@ -43,13 +39,12 @@ Research Papers
 
   <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px;">
     <div>
-      <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">K-Tensors: Clustering Positive Semi-Definite Matrices</a></div>
+      <div class="title"><a href="https://link.cnki.net/urlid/11.5583.TU.20231101.1503.001">The Inspirations of Action-Oriented Social Infrastructure Regeneration Practices: A Case Study of Bayside City, Australia
+</a></div>
       <div class="author"><strong>Shiyan Sha</strong></div>
       <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, May. 2023.</em></div>
       <div class="links">
-        <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-        <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-        <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+        <a href="files/1. 行动导向下的社会基础设施更...示：以澳大利亚贝赛德市为例_陆明.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
         <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
       </div>
     </div>
