@@ -18,7 +18,7 @@ Research Papers
 ======
 <div class="pub-row" style="display: flex; align-items: center; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="position: relative; padding-left: 0px;">
-    <img src="/images/profile.png" class="teaser img-fluid z-depth-1" style="width: 200px; height: auto; margin-right: 20px; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+    <img src="/images/11. habitat.png" class="teaser img-fluid z-depth-1" style="width: 200px; height: auto; margin-right: 20px; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
   </div>
 
   <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px;">
