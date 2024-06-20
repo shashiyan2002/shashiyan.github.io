@@ -27,7 +27,7 @@ Research Papers
       <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng, Ming Lu(Corresponding Author)</div>
        <div class="periodical"><em><strong>(Habitat International)</strong>, Volume 143, January 2024, 102991.</em></div>
       <div class="links">
-        <a href="http://shashiyan2002.github.io/files/11. Habitat International.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <a href="http://shashiyan2002.github.io/files/paper1.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
         <strong><i style="color:#7b5aa6">SSCI JCR Q1 (IF=6.8)</i></strong>
       </div>
     </div>
@@ -46,7 +46,7 @@ Research Papers
       <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng(Corresponding Author)</div>
        <div class="periodical"><em><strong>(Urban Forestry & Urban Greening)</strong>, Volume 94, April 2024, 128267.</em></div>
       <div class="links">
-        <a href="http://shashiyan2002.github.io/files/12. Urban forestry & urban greening.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <a href="http://shashiyan2002.github.io/files/paper1.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
         <strong><i style="color:#7b5aa6">SCI/SSCI JCR Q1 (IF=6.4)</i></strong>
       </div>
     </div>
