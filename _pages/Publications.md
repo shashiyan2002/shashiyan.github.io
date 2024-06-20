@@ -42,12 +42,12 @@ Research Papers
 
   <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px;">
     <div>
-      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0143622824000961">K-Tensors: Clustering Positive Semi-Definite Matrices</a></div>
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1618866724000657">Built or Social environment? Effects of perceptions of neighborhood green spaces on resilience of residents to heat waves</a></div>
       <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng(Corresponding Author)</div>
-       <div class="periodical"><em><strong>(Sustainable Cities and Society)</strong>, Volume 167, June 2024, 103291.</em></div>
+       <div class="periodical"><em><strong>(Urban Forestry & Urban Greening)</strong>, Volume 94, April 2024, 128267.</em></div>
       <div class="links">
-        <a href="http://shashiyan2002.github.io/files/HELIYON-D-24-13607_reviewer.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-        <strong><i style="color:#7b5aa6">SCI JCR Q1 (IF=11.7)</i></strong>
+        <a href="http://shashiyan2002.github.io/files/12. Urban forestry & urban greening.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <strong><i style="color:#7b5aa6">SCI/SSCI JCR Q1 (IF=6.4)</i></strong>
       </div>
     </div>
   </div>
