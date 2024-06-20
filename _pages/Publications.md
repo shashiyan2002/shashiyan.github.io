@@ -65,10 +65,10 @@ Conference Papers
     <div>
       <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">K-Tensors: Clustering Positive Semi-Definite Matrices</a></div>
       <div class="author"><strong>Shiyan Sha</strong></div>
-      <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, May. 2023.</em></div>
+      <div class="periodical"><em><strong>(Sustainable Cities and Society)</strong>, Volume 167, June 2024, 103291.</em></div>
       <div class="links">
         <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-        <strong><i style="color:#7b5aa6">arXiv.org JCR Q1</i></strong>
+        <strong><i style="color:#7b5aa6">JCR Q1 (IF=11.7)</i></strong>
       </div>
     </div>
   </div>
