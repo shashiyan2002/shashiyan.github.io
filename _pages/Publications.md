@@ -27,9 +27,7 @@ Research Papers
       <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng</div>
       <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, May. 2023.</em></div>
       <div class="links">
-        <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-        <a class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">JCR Q1</a>
-        <a class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">IF=250</a>
+        <a href="files/HELIYON-D-24-13607_reviewer.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
         <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
       </div>
     </div>
