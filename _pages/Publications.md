@@ -18,9 +18,8 @@ Research Papers
 ======
 <div class="pub-row" style="display: flex; align-items: center; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="position: relative; padding-left: 0px;">
-    <img src="/images/profile.png" class="teaser img-fluid z-depth-1" style="width: 200px; height: auto; margin-right: 20px; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 2px solid #4a4a4a; border-radius: 10px;">
+    <img src="/images/profile.png" class="teaser img-fluid z-depth-1" style="width: 200px; height: auto; margin-right: 20px; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 2px solid #4a4a4a;">
   </div>
-
   <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px;">
     <div>
       <div class="title"><a href="files/1. 行动导向下的社会基础设施更...示：以澳大利亚贝赛德市为例_陆明.pdf">The Inspirations of Action-Oriented Social Infrastructure Regeneration Practices: A Case Study of Bayside City, Australia</a></div>
@@ -38,7 +37,6 @@ Research Papers
   <div class="col-sm-3 abbr" style="position: relative; padding-left: 0px;">
     <img src="/images/profile.png" class="teaser img-fluid z-depth-1" style="width: 200px; height: auto; margin-right: 20px; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 2px solid #4a4a4a;">
   </div>
-
   <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px;">
     <div>
       <div class="title"><a href="https://link.cnki.net/urlid/11.5583.TU.20231101.1503.001">The Inspirations of Action-Oriented Social Infrastructure Regeneration Practices: A Case Study of Bayside City, Australia
