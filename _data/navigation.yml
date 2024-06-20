@@ -6,16 +6,9 @@ main:
   - title: "Awards"
     url: /Awards/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Experiences"
+    url: /Experiences/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  - title: "Activities"
+    url: /Activities/
 
-    
-  - title: "Guide"
-    url: /markdown/
