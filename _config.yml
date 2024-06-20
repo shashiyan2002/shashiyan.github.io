@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Shiyan Sha"
-  pronouns         : "he/his"  
+  pronouns         : #"he/his"  
   bio              : "Based on humanity, society, geography, and city, contemplating the evolving world, beings, and ourselves."
   location         : "China"
   employer         : "Harbin Institute of Techonlogy"
